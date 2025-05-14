@@ -31,6 +31,7 @@ public class Main {
           rr = m-(Math.abs(l));
         }
         System.out.println(ll + " " + rr);
+        System.out.println("This is just a test change for git");
       }
     }
     scanner.close();
