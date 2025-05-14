@@ -32,6 +32,7 @@ public class Main {
         }
         System.out.println(ll + " " + rr);
         System.out.println("This is just a test change for git");
+        System.out.println("second change");
       }
     }
     scanner.close();
