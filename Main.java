@@ -13,6 +13,8 @@ public class Main {
       m = scanner.nextInt(); 
       l = scanner.nextInt();
       r = scanner.nextInt();
+      System.out.println("this is for learning git git hub version controlling");
+      System.out.println("this is for learning git git hub version controlling");
       if(n == m){
         System.out.println(l + " " + r);
         continue;
